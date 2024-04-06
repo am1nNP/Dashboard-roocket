@@ -769,9 +769,9 @@ video {
   background-color: rgb(30 64 175 / var(--tw-bg-opacity));
 }
 
-.bg-indigo-600 {
+.bg-indigo-700 {
   --tw-bg-opacity: 1;
-  background-color: rgb(79 70 229 / var(--tw-bg-opacity));
+  background-color: rgb(67 56 202 / var(--tw-bg-opacity));
 }
 
 .bg-slate-200 {
@@ -950,20 +950,12 @@ video {
     right: 22rem;
   }
 
-  .sm\:right-80 {
-    right: 20rem;
-  }
-
   .sm\:ml-10 {
     margin-left: 2.5rem;
   }
 
   .sm\:mt-2 {
     margin-top: 0.5rem;
-  }
-
-  .sm\:h-dvh {
-    height: 100dvh;
   }
 
   .sm\:w-0 {
