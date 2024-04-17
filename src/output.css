@@ -929,7 +929,7 @@ video {
   opacity: 1;
 }
 
-@media (min-width: 478px) {
+@media (min-width: 320px) {
   .sm\:visible {
     visibility: visible;
   }
@@ -962,16 +962,8 @@ video {
     width: 0px;
   }
 
-  .sm\:w-2\/5 {
-    width: 40%;
-  }
-
   .sm\:w-28 {
     width: 7rem;
-  }
-
-  .sm\:w-3\/5 {
-    width: 60%;
   }
 
   .sm\:w-6 {
@@ -980,6 +972,10 @@ video {
 
   .sm\:w-80 {
     width: 20rem;
+  }
+
+  .sm\:w-\[52\%\] {
+    width: 52%;
   }
 
   .sm\:w-full {
